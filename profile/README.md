@@ -17,6 +17,7 @@ developer utilities, and minimal full-stack templates — built in the open, fre
 
 | Project | What it is |
 |---|---|
+| [last-cli](https://github.com/lst97-oss/last-cli) | Interactive CLI for creating LAST projects, currently Payload + TanStack Start |
 | [payload-tanstack-start-template](https://github.com/lst97-oss/payload-tanstack-start-template) | Bare Payload v4 + TanStack Start (RSC, Nitro) template on Bun — minimal boot for `/admin` and `/api` |
 | [last-lst97-dev](https://github.com/lst97-oss/last-lst97-dev) | Personal portfolio plus chat assistance with RAG and Jev |
 
