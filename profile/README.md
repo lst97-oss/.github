@@ -17,8 +17,9 @@ developer utilities, and minimal full-stack templates — built in the open, fre
 
 | Project | What it is |
 |---|---|
-| [last-cli](https://github.com/lst97-oss/last-cli) | Interactive CLI for creating LAST projects, currently Payload + TanStack Start |
-| [payload-tanstack-start-template](https://github.com/lst97-oss/payload-tanstack-start-template) | Bare Payload v4 + TanStack Start (RSC, Nitro) template on Bun — minimal boot for `/admin` and `/api` |
+| [last-cli](https://github.com/lst97-oss/last-cli) | Interactive CLI for creating LAST projects — Payload + TanStack Start, or blank TanStack Start |
+| [last-payload-tanstack-start-template](https://github.com/lst97-oss/last-payload-tanstack-start-template) | Bare Payload v4 + TanStack Start (RSC, Nitro) template on Bun — minimal boot for `/admin` and `/api` |
+| [last-tanstack-start-template](https://github.com/lst97-oss/last-tanstack-start-template) | Blank TanStack Start template (no CMS) — owns the canonical business-backend kernel shared with the Payload template |
 | [last-lst97-dev](https://github.com/lst97-oss/last-lst97-dev) | Personal portfolio plus chat assistance with RAG and Jev |
 | [last-comments-widgets](https://github.com/lst97-oss/last-comments-widgets) | Drop-in comment widgets for a last-comments server — React, Vue, Angular and plain HTML on one shared API client and theme |
 
