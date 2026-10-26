@@ -23,6 +23,7 @@ developer utilities, and minimal full-stack templates — built in the open, fre
 | [last-lst97-dev](https://github.com/lst97-oss/last-lst97-dev) | Personal portfolio plus chat assistance with RAG and Jev |
 | [last-comments](https://github.com/lst97-oss/last-comments) | Self-hosted comment threads for any page — Payload CMS, TanStack Start, Bun/Postgres, moderation, publisher API keys and plugins |
 | [last-comments-widgets](https://github.com/lst97-oss/last-comments-widgets) | Drop-in comment widgets for a last-comments server — React, Vue, Angular and plain HTML on one shared API client and theme |
+| [last-httprism](https://github.com/lst97-oss/last-httprism) | Typed, zero-dependency HTTP lookups — status codes, headers, methods, media types and message codes, with Cloudflare, nginx, AWS, IIS and unofficial codes isolated behind subpath imports |
 
 More community projects live under [@lst97](https://github.com/lst97?tab=repositories) and are migrating here over time, including:
 
@@ -42,3 +43,4 @@ tell us — we'd love to link it.
 ## Links
 
 - 🌐 [lst97.dev](https://www.lst97.dev) · 💻 [github.com/lst97](https://github.com/lst97)
+- 📈 [status.lst97.dev](https://status.lst97.dev) — uptime and incident status for lst97 services
